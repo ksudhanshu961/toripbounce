@@ -12,7 +12,7 @@ Don't forget to run **sudo stip** commands after you stop this tool.
 1. gitclone or download this tool.
     
     **To gitclone**
-    > sudo git clone https://github.com/zWR417H/toripbounce.git
+    > sudo git clone https://github.com/ksudhanshu961/toripbounce.git
     
 2. cd toripbounce
 
